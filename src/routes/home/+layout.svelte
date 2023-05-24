@@ -41,14 +41,13 @@
                       <li><a href="/home/brunoy">Brunoy</a></li>
                     </ul>
                   </li>
-                  <li><a>Blog</a></li>
                 </ul>
               </div>
-              <a class="btn btn-ghost normal-case text-xl font-fondamento" href="/home">Tatto Factory</a>
+              <a class="btn btn-ghost normal-case text-xl font-fondamento" href="/">Tattoo Factory</a>
             </div>
             <div class="navbar-center hidden lg:flex">
               <ul class="menu menu-horizontal px-1">
-                <li><a href="/home">Accueil</a></li>
+                <li><a href="/">Accueil</a></li>
                 <li tabindex="0">
                   <a>
                     Shops
@@ -59,19 +58,9 @@
                     <li><a href="/home/brunoy">Brunoy</a></li>
                   </ul>
                 </li>
-                <li><a>Blog</a></li>
               </ul>
             </div>
           </div>
     </header>
     <slot/>
 </main>
-
-<style lang="postcss">
-    .active {
-        background-color: black;
-        color: goldenrod;
-        --tw-border-opacity: 1;
-        border-color: rgb(4 120 87 / var(--tw-border-opacity));
-    }
-</style>
