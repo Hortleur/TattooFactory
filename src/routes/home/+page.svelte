@@ -16,10 +16,15 @@
         <div class="flex flex-row flex-nowrap justify-between">
             <div class="flex flex-col flex-nowrap w-1/2 py-2">
                 <h3 class=" text-center text-lg font-fondamento">Maisons-Alfort</h3>
+                <p><i class="fa-solid fa-map-location-dot" style="color: #107030;"></i> <a href="https://goo.gl/maps/9N3Wm6KC1jzgrmVUA" target="_blank"> 96 avenue Gambetta, Maisons-Alfort, France</a></p>
+                <p><i class="fa-solid fa-phone"></i>  09 51 08 42 19</p>
+                <p><i class="fa-solid fa-at"></i> <a href="mailto:sarahrebouche@tattoofactory.fr">sarahrebouche@tattoofactory.fr</a></p>
             </div>
             <div class="flex flex-col flex-nowrap w-1/2 py-2">
                 <h3 class=" text-center text-lg font-fondamento">Brunoy</h3>
-                <p><i class="fa-solid fa-map-location-dot" style="color: #107030;"></i> </p>
+                <p><i class="fa-solid fa-map-location-dot" style="color: #107030;"></i> <a href="https://goo.gl/maps/KYxSCKfzLaipxfrX6" target="_blank"> 23 rue de la Gare , Brunoy, France</a></p>
+                <p><i class="fa-solid fa-phone"></i>  01 69 52 28 12</p>
+                <p><i class="fa-solid fa-at"></i> <a href="mailto:sarahrebouche@tattoofactory.fr">sarahrebouche@tattoofactory.fr</a></p>
             </div>
         </div>
     </div>

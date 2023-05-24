@@ -4,9 +4,9 @@
 
 <main class="grid place-content-center h-[100vh] " in:fade out:fade>
     <div>
-        <h1 class=" text-7xl z-20 font-bold font-fondamento">TATTOO FACTORY</h1>
+        <h1 class=" text-4xl lg:text-7xl z-20 font-bold font-fondamento">TATTOO FACTORY</h1>
     </div>
-    <div>
+    <div class=" my-4">
         <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1202.000000 1280.000000" preserveAspectRatio="xMidYMid meet">
     <metadata>
     Created by potrace 1.15, written by Peter Selinger 2001-2017
@@ -898,7 +898,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -908,13 +908,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-1 {
-  -webkit-animation: animate-svg-fill-1 0.7s ease-in 0.4s both;
-          animation: animate-svg-fill-1 0.7s ease-in 0.4s both;
+  -webkit-animation: animate-svg-fill-1 0.7s ease-in 7.3s both;
+          animation: animate-svg-fill-1 0.7s ease-in 7.3s both;
 }
 
 @-webkit-keyframes animate-svg-fill-2 {
@@ -923,7 +923,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -933,13 +933,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-2 {
-  -webkit-animation: animate-svg-fill-2 0.7s ease-in 0.5s both;
-          animation: animate-svg-fill-2 0.7s ease-in 0.5s both;
+  -webkit-animation: animate-svg-fill-2 0.7s ease-in 7.2s both;
+          animation: animate-svg-fill-2 0.7s ease-in 7.2s both;
 }
 
 @-webkit-keyframes animate-svg-fill-3 {
@@ -948,7 +948,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -958,13 +958,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-3 {
-  -webkit-animation: animate-svg-fill-3 0.7s ease-in 0.6s both;
-          animation: animate-svg-fill-3 0.7s ease-in 0.6s both;
+  -webkit-animation: animate-svg-fill-3 0.7s ease-in 7.1s both;
+          animation: animate-svg-fill-3 0.7s ease-in 7.1s both;
 }
 
 @-webkit-keyframes animate-svg-fill-4 {
@@ -973,7 +973,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -983,13 +983,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-4 {
-  -webkit-animation: animate-svg-fill-4 0.7s ease-in 0.7s both;
-          animation: animate-svg-fill-4 0.7s ease-in 0.7s both;
+  -webkit-animation: animate-svg-fill-4 0.7s ease-in 7s both;
+          animation: animate-svg-fill-4 0.7s ease-in 7s both;
 }
 
 @-webkit-keyframes animate-svg-fill-5 {
@@ -998,7 +998,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1008,13 +1008,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-5 {
-  -webkit-animation: animate-svg-fill-5 0.7s ease-in 0.8s both;
-          animation: animate-svg-fill-5 0.7s ease-in 0.8s both;
+  -webkit-animation: animate-svg-fill-5 0.7s ease-in 6.9s both;
+          animation: animate-svg-fill-5 0.7s ease-in 6.9s both;
 }
 
 @-webkit-keyframes animate-svg-fill-6 {
@@ -1023,7 +1023,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1033,13 +1033,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-6 {
-  -webkit-animation: animate-svg-fill-6 0.7s ease-in 0.9s both;
-          animation: animate-svg-fill-6 0.7s ease-in 0.9s both;
+  -webkit-animation: animate-svg-fill-6 0.7s ease-in 6.8s both;
+          animation: animate-svg-fill-6 0.7s ease-in 6.8s both;
 }
 
 @-webkit-keyframes animate-svg-fill-7 {
@@ -1048,7 +1048,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1058,13 +1058,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-7 {
-  -webkit-animation: animate-svg-fill-7 0.7s ease-in 1s both;
-          animation: animate-svg-fill-7 0.7s ease-in 1s both;
+  -webkit-animation: animate-svg-fill-7 0.7s ease-in 6.7s both;
+          animation: animate-svg-fill-7 0.7s ease-in 6.7s both;
 }
 
 @-webkit-keyframes animate-svg-fill-8 {
@@ -1073,7 +1073,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1083,13 +1083,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-8 {
-  -webkit-animation: animate-svg-fill-8 0.7s ease-in 1.1s both;
-          animation: animate-svg-fill-8 0.7s ease-in 1.1s both;
+  -webkit-animation: animate-svg-fill-8 0.7s ease-in 6.6s both;
+          animation: animate-svg-fill-8 0.7s ease-in 6.6s both;
 }
 
 @-webkit-keyframes animate-svg-fill-9 {
@@ -1098,7 +1098,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1108,13 +1108,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-9 {
-  -webkit-animation: animate-svg-fill-9 0.7s ease-in 1.2s both;
-          animation: animate-svg-fill-9 0.7s ease-in 1.2s both;
+  -webkit-animation: animate-svg-fill-9 0.7s ease-in 6.5s both;
+          animation: animate-svg-fill-9 0.7s ease-in 6.5s both;
 }
 
 @-webkit-keyframes animate-svg-fill-10 {
@@ -1123,7 +1123,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1133,13 +1133,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-10 {
-  -webkit-animation: animate-svg-fill-10 0.7s ease-in 1.3s both;
-          animation: animate-svg-fill-10 0.7s ease-in 1.3s both;
+  -webkit-animation: animate-svg-fill-10 0.7s ease-in 6.4s both;
+          animation: animate-svg-fill-10 0.7s ease-in 6.4s both;
 }
 
 @-webkit-keyframes animate-svg-fill-11 {
@@ -1148,7 +1148,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1158,13 +1158,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-11 {
-  -webkit-animation: animate-svg-fill-11 0.7s ease-in 1.4s both;
-          animation: animate-svg-fill-11 0.7s ease-in 1.4s both;
+  -webkit-animation: animate-svg-fill-11 0.7s ease-in 6.3s both;
+          animation: animate-svg-fill-11 0.7s ease-in 6.3s both;
 }
 
 @-webkit-keyframes animate-svg-fill-12 {
@@ -1173,7 +1173,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1183,13 +1183,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-12 {
-  -webkit-animation: animate-svg-fill-12 0.7s ease-in 1.5s both;
-          animation: animate-svg-fill-12 0.7s ease-in 1.5s both;
+  -webkit-animation: animate-svg-fill-12 0.7s ease-in 6.2s both;
+          animation: animate-svg-fill-12 0.7s ease-in 6.2s both;
 }
 
 @-webkit-keyframes animate-svg-fill-13 {
@@ -1198,7 +1198,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1208,13 +1208,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-13 {
-  -webkit-animation: animate-svg-fill-13 0.7s ease-in 1.6s both;
-          animation: animate-svg-fill-13 0.7s ease-in 1.6s both;
+  -webkit-animation: animate-svg-fill-13 0.7s ease-in 6.1s both;
+          animation: animate-svg-fill-13 0.7s ease-in 6.1s both;
 }
 
 @-webkit-keyframes animate-svg-fill-14 {
@@ -1223,7 +1223,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1233,13 +1233,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-14 {
-  -webkit-animation: animate-svg-fill-14 0.7s ease-in 1.7s both;
-          animation: animate-svg-fill-14 0.7s ease-in 1.7s both;
+  -webkit-animation: animate-svg-fill-14 0.7s ease-in 6s both;
+          animation: animate-svg-fill-14 0.7s ease-in 6s both;
 }
 
 @-webkit-keyframes animate-svg-fill-15 {
@@ -1248,7 +1248,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1258,13 +1258,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-15 {
-  -webkit-animation: animate-svg-fill-15 0.7s ease-in 1.8s both;
-          animation: animate-svg-fill-15 0.7s ease-in 1.8s both;
+  -webkit-animation: animate-svg-fill-15 0.7s ease-in 5.9s both;
+          animation: animate-svg-fill-15 0.7s ease-in 5.9s both;
 }
 
 @-webkit-keyframes animate-svg-fill-16 {
@@ -1273,7 +1273,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1283,13 +1283,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-16 {
-  -webkit-animation: animate-svg-fill-16 0.7s ease-in 1.9s both;
-          animation: animate-svg-fill-16 0.7s ease-in 1.9s both;
+  -webkit-animation: animate-svg-fill-16 0.7s ease-in 5.8s both;
+          animation: animate-svg-fill-16 0.7s ease-in 5.8s both;
 }
 
 @-webkit-keyframes animate-svg-fill-17 {
@@ -1298,7 +1298,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1308,13 +1308,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-17 {
-  -webkit-animation: animate-svg-fill-17 0.7s ease-in 2s both;
-          animation: animate-svg-fill-17 0.7s ease-in 2s both;
+  -webkit-animation: animate-svg-fill-17 0.7s ease-in 5.7s both;
+          animation: animate-svg-fill-17 0.7s ease-in 5.7s both;
 }
 
 @-webkit-keyframes animate-svg-fill-18 {
@@ -1323,7 +1323,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1333,13 +1333,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-18 {
-  -webkit-animation: animate-svg-fill-18 0.7s ease-in 2.1s both;
-          animation: animate-svg-fill-18 0.7s ease-in 2.1s both;
+  -webkit-animation: animate-svg-fill-18 0.7s ease-in 5.6s both;
+          animation: animate-svg-fill-18 0.7s ease-in 5.6s both;
 }
 
 @-webkit-keyframes animate-svg-fill-19 {
@@ -1348,7 +1348,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1358,13 +1358,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-19 {
-  -webkit-animation: animate-svg-fill-19 0.7s ease-in 2.2s both;
-          animation: animate-svg-fill-19 0.7s ease-in 2.2s both;
+  -webkit-animation: animate-svg-fill-19 0.7s ease-in 5.5s both;
+          animation: animate-svg-fill-19 0.7s ease-in 5.5s both;
 }
 
 @-webkit-keyframes animate-svg-fill-20 {
@@ -1373,7 +1373,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1383,13 +1383,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-20 {
-  -webkit-animation: animate-svg-fill-20 0.7s ease-in 2.3s both;
-          animation: animate-svg-fill-20 0.7s ease-in 2.3s both;
+  -webkit-animation: animate-svg-fill-20 0.7s ease-in 5.5s both;
+          animation: animate-svg-fill-20 0.7s ease-in 5.5s both;
 }
 
 @-webkit-keyframes animate-svg-fill-21 {
@@ -1398,7 +1398,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1408,13 +1408,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-21 {
-  -webkit-animation: animate-svg-fill-21 0.7s ease-in 2.4s both;
-          animation: animate-svg-fill-21 0.7s ease-in 2.4s both;
+  -webkit-animation: animate-svg-fill-21 0.7s ease-in 5.4s both;
+          animation: animate-svg-fill-21 0.7s ease-in 5.4s both;
 }
 
 @-webkit-keyframes animate-svg-fill-22 {
@@ -1423,7 +1423,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1433,13 +1433,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-22 {
-  -webkit-animation: animate-svg-fill-22 0.7s ease-in 2.5s both;
-          animation: animate-svg-fill-22 0.7s ease-in 2.5s both;
+  -webkit-animation: animate-svg-fill-22 0.7s ease-in 5.3s both;
+          animation: animate-svg-fill-22 0.7s ease-in 5.3s both;
 }
 
 @-webkit-keyframes animate-svg-fill-23 {
@@ -1448,7 +1448,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1458,13 +1458,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-23 {
-  -webkit-animation: animate-svg-fill-23 0.7s ease-in 2.6s both;
-          animation: animate-svg-fill-23 0.7s ease-in 2.6s both;
+  -webkit-animation: animate-svg-fill-23 0.7s ease-in 5.2s both;
+          animation: animate-svg-fill-23 0.7s ease-in 5.2s both;
 }
 
 @-webkit-keyframes animate-svg-fill-24 {
@@ -1473,7 +1473,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1483,13 +1483,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-24 {
-  -webkit-animation: animate-svg-fill-24 0.7s ease-in 2.7s both;
-          animation: animate-svg-fill-24 0.7s ease-in 2.7s both;
+  -webkit-animation: animate-svg-fill-24 0.7s ease-in 5.1s both;
+          animation: animate-svg-fill-24 0.7s ease-in 5.1s both;
 }
 
 @-webkit-keyframes animate-svg-fill-25 {
@@ -1498,7 +1498,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1508,13 +1508,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-25 {
-  -webkit-animation: animate-svg-fill-25 0.7s ease-in 2.8s both;
-          animation: animate-svg-fill-25 0.7s ease-in 2.8s both;
+  -webkit-animation: animate-svg-fill-25 0.7s ease-in 5s both;
+          animation: animate-svg-fill-25 0.7s ease-in 5s both;
 }
 
 @-webkit-keyframes animate-svg-fill-26 {
@@ -1523,7 +1523,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1533,13 +1533,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-26 {
-  -webkit-animation: animate-svg-fill-26 0.7s ease-in 2.9s both;
-          animation: animate-svg-fill-26 0.7s ease-in 2.9s both;
+  -webkit-animation: animate-svg-fill-26 0.7s ease-in 4.9s both;
+          animation: animate-svg-fill-26 0.7s ease-in 4.9s both;
 }
 
 @-webkit-keyframes animate-svg-fill-27 {
@@ -1548,7 +1548,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1558,13 +1558,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-27 {
-  -webkit-animation: animate-svg-fill-27 0.7s ease-in 3s both;
-          animation: animate-svg-fill-27 0.7s ease-in 3s both;
+  -webkit-animation: animate-svg-fill-27 0.7s ease-in 4.8s both;
+          animation: animate-svg-fill-27 0.7s ease-in 4.8s both;
 }
 
 @-webkit-keyframes animate-svg-fill-28 {
@@ -1573,7 +1573,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1583,13 +1583,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-28 {
-  -webkit-animation: animate-svg-fill-28 0.7s ease-in 3.1s both;
-          animation: animate-svg-fill-28 0.7s ease-in 3.1s both;
+  -webkit-animation: animate-svg-fill-28 0.7s ease-in 4.7s both;
+          animation: animate-svg-fill-28 0.7s ease-in 4.7s both;
 }
 
 @-webkit-keyframes animate-svg-fill-29 {
@@ -1598,7 +1598,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1608,13 +1608,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-29 {
-  -webkit-animation: animate-svg-fill-29 0.7s ease-in 3.2s both;
-          animation: animate-svg-fill-29 0.7s ease-in 3.2s both;
+  -webkit-animation: animate-svg-fill-29 0.7s ease-in 4.6s both;
+          animation: animate-svg-fill-29 0.7s ease-in 4.6s both;
 }
 
 @-webkit-keyframes animate-svg-fill-30 {
@@ -1623,7 +1623,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1633,13 +1633,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-30 {
-  -webkit-animation: animate-svg-fill-30 0.7s ease-in 3.3s both;
-          animation: animate-svg-fill-30 0.7s ease-in 3.3s both;
+  -webkit-animation: animate-svg-fill-30 0.7s ease-in 4.5s both;
+          animation: animate-svg-fill-30 0.7s ease-in 4.5s both;
 }
 
 @-webkit-keyframes animate-svg-fill-31 {
@@ -1648,7 +1648,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1658,13 +1658,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-31 {
-  -webkit-animation: animate-svg-fill-31 0.7s ease-in 3.4s both;
-          animation: animate-svg-fill-31 0.7s ease-in 3.4s both;
+  -webkit-animation: animate-svg-fill-31 0.7s ease-in 4.4s both;
+          animation: animate-svg-fill-31 0.7s ease-in 4.4s both;
 }
 
 @-webkit-keyframes animate-svg-fill-32 {
@@ -1673,7 +1673,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1683,13 +1683,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-32 {
-  -webkit-animation: animate-svg-fill-32 0.7s ease-in 3.5s both;
-          animation: animate-svg-fill-32 0.7s ease-in 3.5s both;
+  -webkit-animation: animate-svg-fill-32 0.7s ease-in 4.3s both;
+          animation: animate-svg-fill-32 0.7s ease-in 4.3s both;
 }
 
 @-webkit-keyframes animate-svg-fill-33 {
@@ -1698,7 +1698,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1708,13 +1708,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-33 {
-  -webkit-animation: animate-svg-fill-33 0.7s ease-in 3.6s both;
-          animation: animate-svg-fill-33 0.7s ease-in 3.6s both;
+  -webkit-animation: animate-svg-fill-33 0.7s ease-in 4.2s both;
+          animation: animate-svg-fill-33 0.7s ease-in 4.2s both;
 }
 
 @-webkit-keyframes animate-svg-fill-34 {
@@ -1723,7 +1723,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1733,13 +1733,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-34 {
-  -webkit-animation: animate-svg-fill-34 0.7s ease-in 3.7s both;
-          animation: animate-svg-fill-34 0.7s ease-in 3.7s both;
+  -webkit-animation: animate-svg-fill-34 0.7s ease-in 4.1s both;
+          animation: animate-svg-fill-34 0.7s ease-in 4.1s both;
 }
 
 @-webkit-keyframes animate-svg-fill-35 {
@@ -1748,7 +1748,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1758,13 +1758,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-35 {
-  -webkit-animation: animate-svg-fill-35 0.7s ease-in 3.8s both;
-          animation: animate-svg-fill-35 0.7s ease-in 3.8s both;
+  -webkit-animation: animate-svg-fill-35 0.7s ease-in 4s both;
+          animation: animate-svg-fill-35 0.7s ease-in 4s both;
 }
 
 @-webkit-keyframes animate-svg-fill-36 {
@@ -1773,7 +1773,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1783,7 +1783,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1808,13 +1808,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-37 {
-  -webkit-animation: animate-svg-fill-37 0.7s ease-in 4s both;
-          animation: animate-svg-fill-37 0.7s ease-in 4s both;
+  -webkit-animation: animate-svg-fill-37 0.7s ease-in 3.8s both;
+          animation: animate-svg-fill-37 0.7s ease-in 3.8s both;
 }
 
 @-webkit-keyframes animate-svg-fill-38 {
@@ -1823,7 +1823,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1833,13 +1833,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-38 {
-  -webkit-animation: animate-svg-fill-38 0.7s ease-in 4.1s both;
-          animation: animate-svg-fill-38 0.7s ease-in 4.1s both;
+  -webkit-animation: animate-svg-fill-38 0.7s ease-in 3.7s both;
+          animation: animate-svg-fill-38 0.7s ease-in 3.7s both;
 }
 
 @-webkit-keyframes animate-svg-fill-39 {
@@ -1848,7 +1848,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1858,13 +1858,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-39 {
-  -webkit-animation: animate-svg-fill-39 0.7s ease-in 4.2s both;
-          animation: animate-svg-fill-39 0.7s ease-in 4.2s both;
+  -webkit-animation: animate-svg-fill-39 0.7s ease-in 3.6s both;
+          animation: animate-svg-fill-39 0.7s ease-in 3.6s both;
 }
 
 @-webkit-keyframes animate-svg-fill-40 {
@@ -1873,7 +1873,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1883,13 +1883,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-40 {
-  -webkit-animation: animate-svg-fill-40 0.7s ease-in 4.3s both;
-          animation: animate-svg-fill-40 0.7s ease-in 4.3s both;
+  -webkit-animation: animate-svg-fill-40 0.7s ease-in 3.5s both;
+          animation: animate-svg-fill-40 0.7s ease-in 3.5s both;
 }
 
 @-webkit-keyframes animate-svg-fill-41 {
@@ -1898,7 +1898,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1908,13 +1908,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-41 {
-  -webkit-animation: animate-svg-fill-41 0.7s ease-in 4.4s both;
-          animation: animate-svg-fill-41 0.7s ease-in 4.4s both;
+  -webkit-animation: animate-svg-fill-41 0.7s ease-in 3.4s both;
+          animation: animate-svg-fill-41 0.7s ease-in 3.4s both;
 }
 
 @-webkit-keyframes animate-svg-fill-42 {
@@ -1923,7 +1923,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1933,13 +1933,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-42 {
-  -webkit-animation: animate-svg-fill-42 0.7s ease-in 4.6s both;
-          animation: animate-svg-fill-42 0.7s ease-in 4.6s both;
+  -webkit-animation: animate-svg-fill-42 0.7s ease-in 3.3s both;
+          animation: animate-svg-fill-42 0.7s ease-in 3.3s both;
 }
 
 @-webkit-keyframes animate-svg-fill-43 {
@@ -1948,7 +1948,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1958,13 +1958,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-43 {
-  -webkit-animation: animate-svg-fill-43 0.7s ease-in 4.7s both;
-          animation: animate-svg-fill-43 0.7s ease-in 4.7s both;
+  -webkit-animation: animate-svg-fill-43 0.7s ease-in 3.2s both;
+          animation: animate-svg-fill-43 0.7s ease-in 3.2s both;
 }
 
 @-webkit-keyframes animate-svg-fill-44 {
@@ -1973,7 +1973,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -1983,13 +1983,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-44 {
-  -webkit-animation: animate-svg-fill-44 0.7s ease-in 4.8s both;
-          animation: animate-svg-fill-44 0.7s ease-in 4.8s both;
+  -webkit-animation: animate-svg-fill-44 0.7s ease-in 3.1s both;
+          animation: animate-svg-fill-44 0.7s ease-in 3.1s both;
 }
 
 @-webkit-keyframes animate-svg-fill-45 {
@@ -1998,7 +1998,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2008,13 +2008,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-45 {
-  -webkit-animation: animate-svg-fill-45 0.7s ease-in 4.9s both;
-          animation: animate-svg-fill-45 0.7s ease-in 4.9s both;
+  -webkit-animation: animate-svg-fill-45 0.7s ease-in 3s both;
+          animation: animate-svg-fill-45 0.7s ease-in 3s both;
 }
 
 @-webkit-keyframes animate-svg-fill-46 {
@@ -2023,7 +2023,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2033,13 +2033,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-46 {
-  -webkit-animation: animate-svg-fill-46 0.7s ease-in 5s both;
-          animation: animate-svg-fill-46 0.7s ease-in 5s both;
+  -webkit-animation: animate-svg-fill-46 0.7s ease-in 2.9s both;
+          animation: animate-svg-fill-46 0.7s ease-in 2.9s both;
 }
 
 @-webkit-keyframes animate-svg-fill-47 {
@@ -2048,7 +2048,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2058,13 +2058,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-47 {
-  -webkit-animation: animate-svg-fill-47 0.7s ease-in 5.1s both;
-          animation: animate-svg-fill-47 0.7s ease-in 5.1s both;
+  -webkit-animation: animate-svg-fill-47 0.7s ease-in 2.8s both;
+          animation: animate-svg-fill-47 0.7s ease-in 2.8s both;
 }
 
 @-webkit-keyframes animate-svg-fill-48 {
@@ -2073,7 +2073,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2083,13 +2083,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-48 {
-  -webkit-animation: animate-svg-fill-48 0.7s ease-in 5.2s both;
-          animation: animate-svg-fill-48 0.7s ease-in 5.2s both;
+  -webkit-animation: animate-svg-fill-48 0.7s ease-in 2.7s both;
+          animation: animate-svg-fill-48 0.7s ease-in 2.7s both;
 }
 
 @-webkit-keyframes animate-svg-fill-49 {
@@ -2098,7 +2098,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2108,13 +2108,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-49 {
-  -webkit-animation: animate-svg-fill-49 0.7s ease-in 5.3s both;
-          animation: animate-svg-fill-49 0.7s ease-in 5.3s both;
+  -webkit-animation: animate-svg-fill-49 0.7s ease-in 2.6s both;
+          animation: animate-svg-fill-49 0.7s ease-in 2.6s both;
 }
 
 @-webkit-keyframes animate-svg-fill-50 {
@@ -2123,7 +2123,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2133,13 +2133,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-50 {
-  -webkit-animation: animate-svg-fill-50 0.7s ease-in 5.4s both;
-          animation: animate-svg-fill-50 0.7s ease-in 5.4s both;
+  -webkit-animation: animate-svg-fill-50 0.7s ease-in 2.5s both;
+          animation: animate-svg-fill-50 0.7s ease-in 2.5s both;
 }
 
 @-webkit-keyframes animate-svg-fill-51 {
@@ -2148,7 +2148,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2158,13 +2158,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-51 {
-  -webkit-animation: animate-svg-fill-51 0.7s ease-in 5.5s both;
-          animation: animate-svg-fill-51 0.7s ease-in 5.5s both;
+  -webkit-animation: animate-svg-fill-51 0.7s ease-in 2.4s both;
+          animation: animate-svg-fill-51 0.7s ease-in 2.4s both;
 }
 
 @-webkit-keyframes animate-svg-fill-52 {
@@ -2173,7 +2173,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2183,13 +2183,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-52 {
-  -webkit-animation: animate-svg-fill-52 0.7s ease-in 5.6s both;
-          animation: animate-svg-fill-52 0.7s ease-in 5.6s both;
+  -webkit-animation: animate-svg-fill-52 0.7s ease-in 2.3s both;
+          animation: animate-svg-fill-52 0.7s ease-in 2.3s both;
 }
 
 @-webkit-keyframes animate-svg-fill-53 {
@@ -2198,7 +2198,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2208,13 +2208,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-53 {
-  -webkit-animation: animate-svg-fill-53 0.7s ease-in 5.7s both;
-          animation: animate-svg-fill-53 0.7s ease-in 5.7s both;
+  -webkit-animation: animate-svg-fill-53 0.7s ease-in 2.2s both;
+          animation: animate-svg-fill-53 0.7s ease-in 2.2s both;
 }
 
 @-webkit-keyframes animate-svg-fill-54 {
@@ -2223,7 +2223,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2233,13 +2233,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-54 {
-  -webkit-animation: animate-svg-fill-54 0.7s ease-in 5.8s both;
-          animation: animate-svg-fill-54 0.7s ease-in 5.8s both;
+  -webkit-animation: animate-svg-fill-54 0.7s ease-in 2.1s both;
+          animation: animate-svg-fill-54 0.7s ease-in 2.1s both;
 }
 
 @-webkit-keyframes animate-svg-fill-55 {
@@ -2248,7 +2248,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2258,13 +2258,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-55 {
-  -webkit-animation: animate-svg-fill-55 0.7s ease-in 5.9s both;
-          animation: animate-svg-fill-55 0.7s ease-in 5.9s both;
+  -webkit-animation: animate-svg-fill-55 0.7s ease-in 2s both;
+          animation: animate-svg-fill-55 0.7s ease-in 2s both;
 }
 
 @-webkit-keyframes animate-svg-fill-56 {
@@ -2273,7 +2273,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2283,13 +2283,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-56 {
-  -webkit-animation: animate-svg-fill-56 0.7s ease-in 6s both;
-          animation: animate-svg-fill-56 0.7s ease-in 6s both;
+  -webkit-animation: animate-svg-fill-56 0.7s ease-in 1.9s both;
+          animation: animate-svg-fill-56 0.7s ease-in 1.9s both;
 }
 
 @-webkit-keyframes animate-svg-fill-57 {
@@ -2298,7 +2298,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2308,13 +2308,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-57 {
-  -webkit-animation: animate-svg-fill-57 0.7s ease-in 6.1s both;
-          animation: animate-svg-fill-57 0.7s ease-in 6.1s both;
+  -webkit-animation: animate-svg-fill-57 0.7s ease-in 1.8s both;
+          animation: animate-svg-fill-57 0.7s ease-in 1.8s both;
 }
 
 @-webkit-keyframes animate-svg-fill-58 {
@@ -2323,7 +2323,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2333,13 +2333,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-58 {
-  -webkit-animation: animate-svg-fill-58 0.7s ease-in 6.2s both;
-          animation: animate-svg-fill-58 0.7s ease-in 6.2s both;
+  -webkit-animation: animate-svg-fill-58 0.7s ease-in 1.7s both;
+          animation: animate-svg-fill-58 0.7s ease-in 1.7s both;
 }
 
 @-webkit-keyframes animate-svg-fill-59 {
@@ -2348,7 +2348,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2358,13 +2358,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-59 {
-  -webkit-animation: animate-svg-fill-59 0.7s ease-in 6.3s both;
-          animation: animate-svg-fill-59 0.7s ease-in 6.3s both;
+  -webkit-animation: animate-svg-fill-59 0.7s ease-in 1.6s both;
+          animation: animate-svg-fill-59 0.7s ease-in 1.6s both;
 }
 
 @-webkit-keyframes animate-svg-fill-60 {
@@ -2373,7 +2373,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2383,13 +2383,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-60 {
-  -webkit-animation: animate-svg-fill-60 0.7s ease-in 6.4s both;
-          animation: animate-svg-fill-60 0.7s ease-in 6.4s both;
+  -webkit-animation: animate-svg-fill-60 0.7s ease-in 1.5s both;
+          animation: animate-svg-fill-60 0.7s ease-in 1.5s both;
 }
 
 @-webkit-keyframes animate-svg-fill-61 {
@@ -2398,7 +2398,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2408,13 +2408,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-61 {
-  -webkit-animation: animate-svg-fill-61 0.7s ease-in 6.5s both;
-          animation: animate-svg-fill-61 0.7s ease-in 6.5s both;
+  -webkit-animation: animate-svg-fill-61 0.7s ease-in 1.4s both;
+          animation: animate-svg-fill-61 0.7s ease-in 1.4s both;
 }
 
 @-webkit-keyframes animate-svg-fill-62 {
@@ -2423,7 +2423,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2433,13 +2433,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-62 {
-  -webkit-animation: animate-svg-fill-62 0.7s ease-in 6.6s both;
-          animation: animate-svg-fill-62 0.7s ease-in 6.6s both;
+  -webkit-animation: animate-svg-fill-62 0.7s ease-in 1.3s both;
+          animation: animate-svg-fill-62 0.7s ease-in 1.3s both;
 }
 
 @-webkit-keyframes animate-svg-fill-63 {
@@ -2448,7 +2448,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2458,13 +2458,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-63 {
-  -webkit-animation: animate-svg-fill-63 0.7s ease-in 6.7s both;
-          animation: animate-svg-fill-63 0.7s ease-in 6.7s both;
+  -webkit-animation: animate-svg-fill-63 0.7s ease-in 1.2s both;
+          animation: animate-svg-fill-63 0.7s ease-in 1.2s both;
 }
 
 @-webkit-keyframes animate-svg-fill-64 {
@@ -2473,7 +2473,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2483,13 +2483,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-64 {
-  -webkit-animation: animate-svg-fill-64 0.7s ease-in 6.8s both;
-          animation: animate-svg-fill-64 0.7s ease-in 6.8s both;
+  -webkit-animation: animate-svg-fill-64 0.7s ease-in 1.1s both;
+          animation: animate-svg-fill-64 0.7s ease-in 1.1s both;
 }
 
 @-webkit-keyframes animate-svg-fill-65 {
@@ -2498,7 +2498,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2508,13 +2508,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-65 {
-  -webkit-animation: animate-svg-fill-65 0.7s ease-in 6.9s both;
-          animation: animate-svg-fill-65 0.7s ease-in 6.9s both;
+  -webkit-animation: animate-svg-fill-65 0.7s ease-in 1s both;
+          animation: animate-svg-fill-65 0.7s ease-in 1s both;
 }
 
 @-webkit-keyframes animate-svg-fill-66 {
@@ -2523,7 +2523,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2533,13 +2533,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-66 {
-  -webkit-animation: animate-svg-fill-66 0.7s ease-in 7s both;
-          animation: animate-svg-fill-66 0.7s ease-in 7s both;
+  -webkit-animation: animate-svg-fill-66 0.7s ease-in 0.9s both;
+          animation: animate-svg-fill-66 0.7s ease-in 0.9s both;
 }
 
 @-webkit-keyframes animate-svg-fill-67 {
@@ -2548,7 +2548,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2558,13 +2558,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-67 {
-  -webkit-animation: animate-svg-fill-67 0.7s ease-in 7.1s both;
-          animation: animate-svg-fill-67 0.7s ease-in 7.1s both;
+  -webkit-animation: animate-svg-fill-67 0.7s ease-in 0.8s both;
+          animation: animate-svg-fill-67 0.7s ease-in 0.8s both;
 }
 
 @-webkit-keyframes animate-svg-fill-68 {
@@ -2573,7 +2573,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2583,13 +2583,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-68 {
-  -webkit-animation: animate-svg-fill-68 0.7s ease-in 7.2s both;
-          animation: animate-svg-fill-68 0.7s ease-in 7.2s both;
+  -webkit-animation: animate-svg-fill-68 0.7s ease-in 0.7s both;
+          animation: animate-svg-fill-68 0.7s ease-in 0.7s both;
 }
 
 @-webkit-keyframes animate-svg-fill-69 {
@@ -2598,7 +2598,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2608,13 +2608,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-69 {
-  -webkit-animation: animate-svg-fill-69 0.7s ease-in 7.3s both;
-          animation: animate-svg-fill-69 0.7s ease-in 7.3s both;
+  -webkit-animation: animate-svg-fill-69 0.7s ease-in 0.6s both;
+          animation: animate-svg-fill-69 0.7s ease-in 0.6s both;
 }
 
 @-webkit-keyframes animate-svg-fill-70 {
@@ -2623,7 +2623,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2633,13 +2633,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-70 {
-  -webkit-animation: animate-svg-fill-70 0.7s ease-in 7.4s both;
-          animation: animate-svg-fill-70 0.7s ease-in 7.4s both;
+  -webkit-animation: animate-svg-fill-70 0.7s ease-in 0.5s both;
+          animation: animate-svg-fill-70 0.7s ease-in 0.5s both;
 }
 
 @-webkit-keyframes animate-svg-fill-71 {
@@ -2648,7 +2648,7 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
@@ -2658,13 +2658,13 @@
   }
 
   100% {
-    fill: rgb(0, 0, 0);
+    fill: #FFF0CA;
   }
 }
 
 .svg-elem-71 {
-  -webkit-animation: animate-svg-fill-71 0.7s ease-in 7.5s both;
-          animation: animate-svg-fill-71 0.7s ease-in 7.5s both;
+  -webkit-animation: animate-svg-fill-71 0.7s ease-in 0.4s both;
+          animation: animate-svg-fill-71 0.7s ease-in 0.4s both;
 }
 
 </style>
